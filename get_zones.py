@@ -13,7 +13,6 @@ def extract_text(file_name):
     with pdfplumber.open(file_name) as pdf:
         page = pdf.pages[2]
         text = page.extract_text()
-    pass
     return text
 
 
