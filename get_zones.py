@@ -154,3 +154,7 @@ print("Total time taken: ", end_time - start_time)
 print("Average time taken: ", (end_time - start_time) / len(df))
 
 df['Zone'] = zone
+
+df.to_csv(f"{file_name}.csv")
+with open(f'{file_name}.txt', 'w') as f:
+    f.write(f"total time {total}")
