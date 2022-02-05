@@ -1,5 +1,5 @@
 import time
-import pdfplumber
+# import pdfplumber
 import re
 import pytesseract
 import PIL
@@ -9,12 +9,12 @@ import pandas as pd
 import sys
 
 
-def extract_text(file_name):
-    with pdfplumber.open(file_name) as pdf:
-        page = pdf.pages[2]
-        text = page.extract_text()
-    pass
-    return text
+# def extract_text(file_name):
+#     with pdfplumber.open(file_name) as pdf:
+#         page = pdf.pages[2]
+#         text = page.extract_text()
+#     pass
+#     return text
 
 
 def get_address(text):
