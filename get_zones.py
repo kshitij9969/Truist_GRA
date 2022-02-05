@@ -93,7 +93,7 @@ def get_headers():
     return headers
 
 
-def get_params():
+def get_params(address):
     params = (
         ('dpi', '96'),
         ('transparent', 'true'),
@@ -108,18 +108,18 @@ def get_params():
     return params
 
 
-response = requests.get('https://hazards.fema.gov/gis/nfhl/rest/services/FIRMette/NFHLREST_FIRMette/MapServer/export',
-                        headers=get_headers(), params=get_params())
+# response = requests.get('https://hazards.fema.gov/gis/nfhl/rest/services/FIRMette/NFHLREST_FIRMette/MapServer/export',
+#                         headers=get_headers(), params=get_params())
 
-image = save_image(response)
+# image = save_image(response)
 
-zone = extract_zone(image)
-print("Zone is: ", zone)
+# zone = extract_zone(image)
+# print("Zone is: ", zone)
 
 
-filename = "SFHDF Example (1).pdf"
+# filename = "SFHDF Example (1).pdf"
 
-address = get_address(extract_text(filename))
+# address = get_address(extract_text(filename))
 
 file_name = f"{sys.argv[1]}"
 
@@ -142,7 +142,7 @@ for index, row in enumerate(data):
     print(address)
     t1 = time.time()
     response = requests.get('https://hazards.fema.gov/gis/nfhl/rest/services/FIRMette/NFHLREST_FIRMette/MapServer/export',
-                            headers=get_headers(), params=get_params())
+                            headers=get_headers(), params=get_params(row['address']))
     image = save_image(response)
     zone = extract_zone(image)
     total += (time.time() - t1)
