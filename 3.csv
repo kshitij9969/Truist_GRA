@@ -1,0 +1,631 @@
+lat,long,address,Region
+26.207357,-81.79384248275862,"4919, Napoli Drive, Westlake, Collier County, Florida, 34103, United States", Florida
+26.20357544827586,-81.79384248275862,"1321, Hernando Street, Naples Twin Lakes, Collier County, Florida, 34103, United States", Florida
+26.19979389655172,-81.79384248275862,"1334, Hilltop Drive, Hilltop, Collier County, Florida, 34103, United States", Florida
+26.196012344827583,-81.79384248275862,"1336, Highlands Drive, Decker Highlands, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.79384248275862,"1316, Cypress Woods Drive, Collier County, Florida, 34103, United States", Florida
+26.18844924137931,-81.79384248275862,"1275, Wisconsin Drive, Gulf Acres, Collier County, Florida, 34103, United States", Florida
+26.18466768965517,-81.79384248275862,"28, Highpoint Circle South, High Point, Collier County, Florida, 34103, United States", Florida
+26.180886137931036,-81.79384248275862,"1316, Rordon Avenue, Naples, Collier County, Florida, 34103, United States", Florida
+26.17710458620689,-81.79384248275862,"1274, 26th Avenue North, Naples, Collier County, Florida, 34103, United States", Florida
+26.17332303448276,-81.79384248275862,"Naples High School, Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.79384248275862,"Coastland Center, 1900, Tamiami Trail North, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.79384248275862,"1462, 12th Street North, Naples, Collier County, Florida, 34102, United States", Florida
+26.161978379310344,-81.79384248275862,"1109, 12th Street North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.79384248275862,"1138, 8th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.79384248275862,"1103, 6th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.79384248275862,"Macedonia Baptist Church, 3rd Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.79384248275862,"67, 10th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.79384248275862,"984, 4th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.139289068965518,-81.79384248275862,"Trianon Old Naples, 7th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13550751724138,-81.79384248275862,"1092, 9th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.79384248275862,"8th St S, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.127944413793102,-81.79384248275862,"881, 17th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.79384248275862,"2062, 8th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.79384248275862,"820, Jamaica Lane, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.79384248275862,"913, Spyglass Lane, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.79384248275862,"2991, Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.79384248275862,"3248, Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.79384248275862,"3699, Gin Lane, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.79384248275862,"4038, Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.79384248275862,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.79320368965517,"4960, Napoli Drive, Westlake, Collier County, Florida, 34103, United States", Florida
+26.20357544827586,-81.79320368965517,"1381, Hernando Street, Naples Twin Lakes, Collier County, Florida, 34103, United States", Florida
+26.19979389655172,-81.79320368965517,"1382, Hilltop Drive, Hilltop, Collier County, Florida, 34103, United States", Florida
+26.196012344827583,-81.79320368965517,"1378, Highlands Drive, Decker Highlands, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.79320368965517,"1362, Cypress Woods Drive, Collier County, Florida, 34103, United States", Florida
+26.18844924137931,-81.79320368965517,"1231, Wisconsin Drive, Gulf Acres, Collier County, Florida, 34103, United States", Florida
+26.18466768965517,-81.79320368965517,"13, Highpoint Circle South, High Point, Collier County, Florida, 34103, United States", Florida
+26.180886137931036,-81.79320368965517,"1356, Rordon Avenue, Naples, Collier County, Florida, 34103, United States", Florida
+26.17710458620689,-81.79320368965517,"Saint Marks Episcopal Church, 13th Street North, Naples, Collier County, Florida, 34103, United States", Florida
+26.17332303448276,-81.79320368965517,"Naples High School, Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.79320368965517,"Coastland Center, 1900, Tamiami Trail North, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.79320368965517,"Lake Park Elementary School, 14th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.161978379310344,-81.79320368965517,"1227, 10th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.79320368965517,"1192, 8th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.79320368965517,"1161, 6th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.79320368965517,"120, Jasmine Circle, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.79320368965517,"1075, 1st Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.79320368965517,"Naples Train Museum, 401, 10th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.139289068965518,-81.79320368965517,"750, 10th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13550751724138,-81.79320368965517,"Charter Club Resort of Naples Bay, 1000, 10th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.79320368965517,"8th St S, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.127944413793102,-81.79320368965517,"927, 17th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.79320368965517,"2045, 8th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.79320368965517,"898, Jamaica Lane, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.79320368965517,"946, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.79320368965517,"Spyglass Lane, Port Royal, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.10903665517241,-81.79320368965517,"3268, Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.79320368965517,"3699, Gin Lane, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.79320368965517,"4012, Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.79320368965517,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.79256489655172,"4947, Goodlette-Frank Road North, Naples, Collier County, Florida, 34103, United States", Florida
+26.20357544827586,-81.79256489655172,"4638, East Alhambra Circle, Naples Twin Lakes, Collier County, Florida, 34103, United States", Florida
+26.19979389655172,-81.79256489655172,"4398, Morningside Circle, Morningside, Collier County, Florida, 34103, United States", Florida
+26.196012344827583,-81.79256489655172,"4040, 14th Street North, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.79256489655172,"1486, Hemingway Place, Collier County, Florida, 34103, United States", Florida
+26.18844924137931,-81.79256489655172,"Ohio Drive, Gulf Acres, Collier County, Florida, 34103, United States", Florida
+26.18466768965517,-81.79256489655172,"1, Highpoint Circle South, High Point, Collier County, Florida, 34103, United States", Florida
+26.180886137931036,-81.79256489655172,"2899, 14th Street North, Naples, Collier County, Florida, 34103, United States", Florida
+26.17710458620689,-81.79256489655172,"2551, 14th Street North, Naples, Collier County, Florida, 34103, United States", Florida
+26.17332303448276,-81.79256489655172,"Naples High School, Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.79256489655172,"Coastland Center, 1900, Tamiami Trail North, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.79256489655172,"Saint Johns Episcopal Church, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.161978379310344,-81.79256489655172,"1276, 10th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.79256489655172,"1236, 8th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.79256489655172,"1199, 6th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.79256489655172,"140, Jasmine Circle, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.79256489655172,"1139, 1st Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.79256489655172,"4th Avenue South, Quattro at Naples Square, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.139289068965518,-81.79256489655172,"763, 10th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13550751724138,-81.79256489655172,"Charter Club Resort of Naples Bay, 1000, 10th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.79256489655172,"Cove Inn on Naples Bay, 9th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.79256489655172,"973, 17th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.79256489655172,"2029, 8th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.79256489655172,"898, Jamaica Lane, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.79256489655172,"972, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.79256489655172,"1242, Spyglass Lane, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.79256489655172,"3287, Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.79256489655172,"3662, Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.79256489655172,"3935, Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.79256489655172,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.79192610344828,"4944, Goodlette-Frank Road North, Collier County, Florida, 34102, United States", Florida
+26.20357544827586,-81.79192610344828,"4666, Goodlette-Frank Road North, Collier County, Florida, 34102, United States", Florida
+26.19979389655172,-81.79192610344828,"4384, Goodlette-Frank Road North, Collier County, Florida, 34103, United States", Florida
+26.196012344827583,-81.79192610344828,"4008, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.192230793103448,-81.79192610344828,"3771, Goodlette-Frank Road North, Naples, Collier County, Florida, 34103, United States", Florida
+26.18844924137931,-81.79192610344828,"Ohio Drive, Gulf Acres, Collier County, Florida, 34103, United States", Florida
+26.18466768965517,-81.79192610344828,"3221, Goodlette-Frank Road North, Naples, Collier County, Florida, 34103, United States", Florida
+26.180886137931036,-81.79192610344828,"2953, Goodlette-Frank Road North, Naples, Collier County, Florida, 34103, United States", Florida
+26.17710458620689,-81.79192610344828,"2801, Goodlette-Frank Road North, Naples, Collier County, Florida, 34103, United States", Florida
+26.17332303448276,-81.79192610344828,"Naples High School, Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.79192610344828,"Coastland Center, 1900, Tamiami Trail North, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.79192610344828,"Saint Johns Episcopal Church, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.161978379310344,-81.79192610344828,"1100, 13th Street North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.79192610344828,"1298, 8th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.79192610344828,"1198, 6th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.79192610344828,"1199, 3rd Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.79192610344828,"182, 12th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.79192610344828,"4th Avenue South, Quattro at Naples Square, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.139289068965518,-81.79192610344828,"785, 11th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13550751724138,-81.79192610344828,"Charter Club Resort of Naples Bay, 1000, 10th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.79192610344828,"Cove Inn on Naples Bay, 9th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.79192610344828,"999, Aqua Circle, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.79192610344828,"8th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.79192610344828,"Jamaica Lane, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.79192610344828,"1001, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.79192610344828,"1274, Spyglass Lane, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.79192610344828,"Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.79192610344828,"3640, Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.79192610344828,"864, Nelsons Walk, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.79192610344828,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.79128731034483,"Moorings Park, Naples, Collier County, Florida, 34108-2740, United States", Florida
+26.20357544827586,-81.79128731034483,"186, Moorings Park Drive, Moorings Park, Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.79128731034483,"Moorings Park Drive, Moorings Park, Naples, Collier County, Florida, 34103, United States", Florida
+26.196012344827583,-81.79128731034483,"4004, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.192230793103448,-81.79128731034483,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.79128731034483,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.79128731034483,"3222, Goodlette-Frank Road North, Naples, Collier County, Florida, 34105, United States", Florida
+26.180886137931036,-81.79128731034483,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.79128731034483,"2591, Goodlette-Frank Road North, Naples, Collier County, Florida, 34103, United States", Florida
+26.17332303448276,-81.79128731034483,"Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.79128731034483,"Red Ruffed Lemurs, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.165759931034483,-81.79128731034483,"Saint Johns Episcopal Church, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.161978379310344,-81.79128731034483,"889, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.79128731034483,"745, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.79128731034483,"559, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.79128731034483,"201, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.79128731034483,"1194, 1st Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.79128731034483,"Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.139289068965518,-81.79128731034483,"789, 11th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13550751724138,-81.79128731034483,"Charter Club Resort of Naples Bay, 1000, 10th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.79128731034483,"Cove Inn on Naples Bay, 9th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.79128731034483,"Aqua Circle, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.79128731034483,"8th Street South, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.79128731034483,"Trout Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.79128731034483,"1033, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.79128731034483,"1291, Spyglass Lane, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.79128731034483,"Spyglass Lane, Port Royal, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.105255103448275,-81.79128731034483,"3611, Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.79128731034483,"922, Nelsons Walk, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.79128731034483,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.79064851724138,"Moorings Park Drive, Moorings Park, Naples, Collier County, Florida, 34108-2740, United States", Florida
+26.20357544827586,-81.79064851724138,"177, Moorings Park Drive, Moorings Park, Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.79064851724138,"Moorings Park Drive, Moorings Park, Naples, Collier County, Florida, 34103, United States", Florida
+26.196012344827583,-81.79064851724138,"Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.79064851724138,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.79064851724138,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.79064851724138,"3220, Goodlette-Frank Road North, Naples, Collier County, Florida, 34105, United States", Florida
+26.180886137931036,-81.79064851724138,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.79064851724138,"2590, Goodlette-Frank Road North, Naples, Collier County, Florida, 34103, United States", Florida
+26.17332303448276,-81.79064851724138,"Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.79064851724138,"Naples Zoo at Caribbean Gardens, Lagoon Loop, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.79064851724138,"Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.161978379310344,-81.79064851724138,"Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.79064851724138,"Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.79064851724138,"Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.79064851724138,"3rd Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.79064851724138,"1st Avenue South, Mangrove Bay, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.79064851724138,"309, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.139289068965518,-81.79064851724138,"11th Street South, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.13550751724138,-81.79064851724138,"Charter Club Resort of Naples Bay, 1000, 10th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.79064851724138,"Cove Inn on Naples Bay, 9th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.79064851724138,"Aqua Circle, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.79064851724138,"Kingfish Road, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.79064851724138,"Kingfish Road, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.79064851724138,"1069, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.79064851724138,"1307, Spyglass Lane, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.79064851724138,"Spyglass Lane, Port Royal, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.105255103448275,-81.79064851724138,"Rum Row, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.79064851724138,"970, Nelsons Walk, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.79064851724138,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.79000972413793,"Moorings Park Drive, Moorings Park, Naples, Collier County, Florida, 34108-2740, United States", Florida
+26.20357544827586,-81.79000972413793,"Moorings Park, Naples, Collier County, Florida, 34103, United States", Florida
+26.19979389655172,-81.79000972413793,"Moorings Park, Naples, Collier County, Florida, 34103, United States", Florida
+26.196012344827583,-81.79000972413793,"Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.79000972413793,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.79000972413793,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.79000972413793,"Wilderness Drive, Collier County, Florida, 34105, United States", Florida
+26.180886137931036,-81.79000972413793,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.79000972413793,"Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.17332303448276,-81.79000972413793,"Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.79000972413793,"Naples Zoo at Caribbean Gardens, Lagoon Loop, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.79000972413793,"Merrihue Drive, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.161978379310344,-81.79000972413793,"Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.79000972413793,"Life Hearing Health Centers, 720, Commons Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.79000972413793,"543, 13th Street North, River Park East, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.79000972413793,"3rd Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.79000972413793,"1st Avenue South, Mangrove Bay, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.79000972413793,"Bayfront Inn 5th Ave, Bayfront Place, Bayfront, Naples, Collier County, Florida, 34102, United States", Florida
+26.139289068965518,-81.79000972413793,"River Point Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.13550751724138,-81.79000972413793,"Naples Sailing & Yacht Club, River Point Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.79000972413793,"Chesapeake Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.79000972413793,"Aqua Circle, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.79000972413793,"Kingfish Road, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.79000972413793,"2272, Kingfish Road, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.79000972413793,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.79000972413793,"1328, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.79000972413793,"1602, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.79000972413793,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.79000972413793,"1099, Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.79000972413793,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.78937093103448,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.20357544827586,-81.78937093103448,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.78937093103448,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.196012344827583,-81.78937093103448,"Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.78937093103448,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.78937093103448,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.78937093103448,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.180886137931036,-81.78937093103448,"106, Wilderness Drive, Collier County, Florida, 34105, United States", Florida
+26.17710458620689,-81.78937093103448,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17332303448276,-81.78937093103448,"Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.78937093103448,"Naples Zoo at Caribbean Gardens, Lagoon Loop, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.78937093103448,"1453, Merrihue Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.161978379310344,-81.78937093103448,"1390, Bembury Drive, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.78937093103448,"Life Hearing Health Centers, 720, Commons Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.78937093103448,"534, 13th Street North, River Park East, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.78937093103448,"Community Services Building, 14th Street North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.78937093103448,"14th Street South, Mangrove Bay, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.78937093103448,"Bayfront Inn 5th Ave, Bayfront Place, Bayfront, Naples, Collier County, Florida, 34102, United States", Florida
+26.139289068965518,-81.78937093103448,"Naples Sailing & Yacht Club, River Point Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.13550751724138,-81.78937093103448,"Naples Sailing & Yacht Club, River Point Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.78937093103448,"Chesapeake Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.78937093103448,"Marlin Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.78937093103448,"2036, Kingfish Road, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.78937093103448,"2286, Kingfish Road, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.78937093103448,"Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.78937093103448,"1334, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.78937093103448,"1606, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.78937093103448,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.78937093103448,"1099, Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.78937093103448,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.78873213793104,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.20357544827586,-81.78873213793104,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.78873213793104,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.196012344827583,-81.78873213793104,"Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.78873213793104,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.78873213793104,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.78873213793104,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.180886137931036,-81.78873213793104,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.78873213793104,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17332303448276,-81.78873213793104,"Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.78873213793104,"Naples Zoo at Caribbean Gardens, Lagoon Loop, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.78873213793104,"1454, Merrihue Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.161978379310344,-81.78873213793104,"1436, Bembury Drive, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.78873213793104,"7th Ave N, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.78873213793104,"539, 14th Street North, River Park East, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.78873213793104,"City of Naples Wastewater Treatment Facility, 4th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.78873213793104,"1451, 2nd Avenue South, Mangrove Bay, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.78873213793104,"3rd Avenue South, Bayfront, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.139289068965518,-81.78873213793104,"Naples Sailing & Yacht Club, River Point Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.13550751724138,-81.78873213793104,"Pelican Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.78873213793104,"1300, Chesapeake Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.78873213793104,"Marlin Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.78873213793104,"2048, Kingfish Road, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.78873213793104,"2260, Trout Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.78873213793104,"2645, Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.78873213793104,"1339, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.78873213793104,"1603, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.78873213793104,"1876, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.78873213793104,"2999, Nelsons Walk, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.78873213793104,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.78809334482759,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.20357544827586,-81.78809334482759,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.78809334482759,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.196012344827583,-81.78809334482759,"Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.78809334482759,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.78809334482759,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.78809334482759,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.180886137931036,-81.78809334482759,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.78809334482759,"195, Clubhouse Lane, Collier County, Florida, 34105, United States", Florida
+26.17332303448276,-81.78809334482759,"Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.78809334482759,"Naples Zoo at Caribbean Gardens, Lagoon Loop, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.78809334482759,"Conservancy of Southwest Florida Naples Nature Center, Merrihue Drive, Collier County, Florida, 34102, United States", Florida
+26.161978379310344,-81.78809334482759,"1486, Bembury Drive, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.78809334482759,"7th Ave N, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.78809334482759,"524, 14th Street North, River Park East, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.78809334482759,"City of Naples Wastewater Treatment Facility, 4th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.78809334482759,"1479, 2nd Avenue South, Mangrove Bay, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.78809334482759,"Goodlette Road, Mariner's Cove, Naples, Collier County, Florida, United States", Collier County
+26.139289068965518,-81.78809334482759,"Naples Sailing & Yacht Club, River Point Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.13550751724138,-81.78809334482759,"1301, Pelican Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.78809334482759,"1304, Chesapeake Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.78809334482759,"1301, Marlin Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.78809334482759,"1521, Wahoo Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.78809334482759,"2298, Trout Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.78809334482759,"2633, Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.78809334482759,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.78809334482759,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.78809334482759,"1894, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.78809334482759,"2778, Nelsons Walk, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.78809334482759,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.78745455172414,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.20357544827586,-81.78745455172414,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.78745455172414,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.196012344827583,-81.78745455172414,"Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.78745455172414,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.78745455172414,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.78745455172414,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.180886137931036,-81.78745455172414,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.78745455172414,"177, Clubhouse Lane, Collier County, Florida, 34105, United States", Florida
+26.17332303448276,-81.78745455172414,"Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.78745455172414,"Naples Zoo at Caribbean Gardens, Lagoon Loop, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.78745455172414,"Merrihue Drive, Collier County, Florida, United States", Collier County
+26.161978379310344,-81.78745455172414,"1580, Bembury Drive, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.78745455172414,"7th Ave N, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.78745455172414,"1431, 5th Avenue North, River Park East, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.78745455172414,"City of Naples Wastewater Treatment Facility, 4th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.78745455172414,"2, 15th Street South, Mangrove Bay, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.78745455172414,"Goodlette Road, Mariner's Cove, Naples, Collier County, Florida, United States", Collier County
+26.139289068965518,-81.78745455172414,"Naples Bay Resort, 5th Avenue South, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.13550751724138,-81.78745455172414,"1301, Pelican Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.78745455172414,"1344, Chesapeake Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.78745455172414,"1301, Marlin Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.78745455172414,"2099, Wahoo Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.78745455172414,"2328, Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.78745455172414,"2597, Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.78745455172414,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.78745455172414,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.78745455172414,"1940, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.78745455172414,"2591, Nelsons Walk, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.78745455172414,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.78681575862069,"Mel Jen Drive, Country Club of Naples, Collier County, Florida, 35105, United States", Florida
+26.20357544827586,-81.78681575862069,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.78681575862069,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.196012344827583,-81.78681575862069,"Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.78681575862069,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.78681575862069,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.78681575862069,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.180886137931036,-81.78681575862069,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.78681575862069,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17332303448276,-81.78681575862069,"Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.78681575862069,"Naples Zoo at Caribbean Gardens, Lagoon Loop, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.78681575862069,"Merrihue Drive, Collier County, Florida, United States", Collier County
+26.161978379310344,-81.78681575862069,"1598, Bembury Drive, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.78681575862069,"Commons Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.78681575862069,"1448, 5th Avenue North, River Park East, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.78681575862069,"City of Naples Wastewater Treatment Facility, 4th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.78681575862069,"Sunrise Terrace, 15th Street South, Mangrove Bay, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.78681575862069,"Hyatt House Naples, River Point Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.139289068965518,-81.78681575862069,"Naples Bay Resort, 5th Avenue South, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.13550751724138,-81.78681575862069,"1361, Pelican Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.78681575862069,"1301, Jewel Box Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.78681575862069,"1622, Dolphin Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.78681575862069,"2062, Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.78681575862069,"2311, Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.78681575862069,"2559, Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.78681575862069,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.78681575862069,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.78681575862069,"1962, Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.101473551724137,-81.78681575862069,"Nelsons Walk, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.097692,-81.78681575862069,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.78617696551724,"278, Burning Tree Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.20357544827586,-81.78617696551724,"181, Burning Tree Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.78617696551724,"66, Burning Tree Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.196012344827583,-81.78617696551724,"Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.78617696551724,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.78617696551724,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.78617696551724,"172, Wilderness Drive, Collier County, Florida, 34105, United States", Florida
+26.180886137931036,-81.78617696551724,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.78617696551724,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17332303448276,-81.78617696551724,"Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.78617696551724,"Naples Zoo at Caribbean Gardens, Lagoon Loop, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.78617696551724,"Gordon River Greenway, Collier County, Florida, 34103-4408, United States", Florida
+26.161978379310344,-81.78617696551724,"Bembury Drive, Collier County, Florida, 34102, United States", Florida
+26.15819682758621,-81.78617696551724,"Commons Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.78617696551724,"1450, 5th Avenue North, River Park East, Naples, Collier County, Florida, 34102, United States", Florida
+26.15063372413793,-81.78617696551724,"City of Naples Wastewater Treatment Facility, 4th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.78617696551724,"Sunrise Terrace, 15th Street South, Mangrove Bay, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.78617696551724,"Hyatt House Naples, River Point Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.139289068965518,-81.78617696551724,"Naples Bay Resort, 5th Avenue South, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.13550751724138,-81.78617696551724,"1425, Pelican Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.78617696551724,"1355, Jewel Box Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.78617696551724,"1752, Dolphin Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.78617696551724,"2037, Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.78617696551724,"2398, Snook Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.78617696551724,"2535, Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.78617696551724,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.78617696551724,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.78617696551724,"Gulfstar Drive South, Royal Harbor, Naples, Collier County, Florida, 34112, United States", Florida
+26.101473551724137,-81.78617696551724,"Bayview Park, Danford Street, Naples Bayview, Royal Harbor, Naples, Collier County, Florida, 34112, United States", Florida
+26.097692,-81.78617696551724,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.7855381724138,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.20357544827586,-81.7855381724138,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.7855381724138,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.196012344827583,-81.7855381724138,"Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.7855381724138,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.7855381724138,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.7855381724138,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.180886137931036,-81.7855381724138,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.7855381724138,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17332303448276,-81.7855381724138,"Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.7855381724138,"Naples Zoo at Caribbean Gardens, Lagoon Loop, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.7855381724138,"Gordon River Greenway, Collier County, Florida, 34103-4408, United States", Florida
+26.161978379310344,-81.7855381724138,"Gordon River Greenway, Collier County, Florida, 34109:34112, United States", Florida
+26.15819682758621,-81.7855381724138,"Commons Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.7855381724138,"1698, Port Avenue, Avion Park, Naples, Collier County, Florida, 34104, United States", Florida
+26.15063372413793,-81.7855381724138,"City of Naples Wastewater Treatment Facility, 4th Avenue North, Naples, Collier County, Florida, 34102, United States", Florida
+26.14685217241379,-81.7855381724138,"Sunrise Terrace, 15th Street South, Mangrove Bay, Naples, Collier County, Florida, 34102, United States", Florida
+26.14307062068965,-81.7855381724138,"Hyatt House Naples, River Point Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.139289068965518,-81.7855381724138,"Naples Bay Resort, 5th Avenue South, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.13550751724138,-81.7855381724138,"1489, Pelican Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.7855381724138,"1421, Jewel Box Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.7855381724138,"1698, Mullet Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.7855381724138,"2158, Snook Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.7855381724138,"2399, Snook Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.7855381724138,"Tarpon Road, Port Royal, Naples, Collier County, Florida, 34102, United States", Florida
+26.11281820689655,-81.7855381724138,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.7855381724138,"Galleon Drive, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.7855381724138,"1300, Gulfstar Drive South, Royal Harbor, Naples, Collier County, Florida, 34112, United States", Florida
+26.101473551724137,-81.7855381724138,"Bayview Park, Danford Street, Naples Bayview, Royal Harbor, Naples, Collier County, Florida, 34112, United States", Florida
+26.097692,-81.7855381724138,"Admiralty Parade, Royal Harbor, Naples, Collier County, Florida, 34102, United States", Florida
+26.207357,-81.78489937931035,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.20357544827586,-81.78489937931035,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.78489937931035,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.196012344827583,-81.78489937931035,"Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.78489937931035,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.78489937931035,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.78489937931035,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.180886137931036,-81.78489937931035,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.78489937931035,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17332303448276,-81.78489937931035,"Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.78489937931035,"Gordon River Greenway, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.78489937931035,"Gordon River Greenway, Collier County, Florida, 34103-4408, United States", Florida
+26.161978379310344,-81.78489937931035,"Gordon River Greenway, Collier County, Florida, 34109:34112, United States", Florida
+26.15819682758621,-81.78489937931035,"Gordon River Greenway, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.78489937931035,"1698, Port Avenue, Avion Park, Naples, Collier County, Florida, 34104, United States", Florida
+26.15063372413793,-81.78489937931035,"Naples Harbor Yacht Club, North Road, Naples, Collier County, Florida, 34104, United States", Florida
+26.14685217241379,-81.78489937931035,"North Rd, Naples, Collier County, Florida, 34104, United States", Florida
+26.14307062068965,-81.78489937931035,"Hyatt House Naples, River Point Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.139289068965518,-81.78489937931035,"1510, 5th Avenue South, Naples, Collier County, Florida, 34102, United States", Florida
+26.13550751724138,-81.78489937931035,"1555, Pelican Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.78489937931035,"1487, Jewel Box Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.78489937931035,"1699, Mullet Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.78489937931035,"2149, Snook Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.78489937931035,"Snook Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.78489937931035,"Star Point Lane, Naples, Collier County, Florida, 34112, United States", Florida
+26.11281820689655,-81.78489937931035,"Windstar on Naples Bay, Sheepshead Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.78489937931035,"York Island Drive, Collier County, Florida, 34112, United States", Florida
+26.105255103448275,-81.78489937931035,"1300, Gulfstar Drive South, Royal Harbor, Naples, Collier County, Florida, 34112, United States", Florida
+26.101473551724137,-81.78489937931035,"Bayview Park, Danford Street, Naples Bayview, Royal Harbor, Naples, Collier County, Florida, 34112, United States", Florida
+26.097692,-81.78489937931035,"Hamilton Ave, Collier County, Florida, 34112, United States", Florida
+26.207357,-81.7842605862069,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.20357544827586,-81.7842605862069,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.7842605862069,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.196012344827583,-81.7842605862069,"Royal Poiniana Golf Club, Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.192230793103448,-81.7842605862069,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.7842605862069,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18466768965517,-81.7842605862069,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.180886137931036,-81.7842605862069,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.7842605862069,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17332303448276,-81.7842605862069,"Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.7842605862069,"Gordon River Greenway, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.7842605862069,"Gordon River Greenway, Collier County, Florida, 34103-4408, United States", Florida
+26.161978379310344,-81.7842605862069,"Gordon River Greenway, Collier County, Florida, 34109:34112, United States", Florida
+26.15819682758621,-81.7842605862069,"Gordon River Greenway, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.7842605862069,"1651, Port Avenue, Avion Park, Naples, Collier County, Florida, 34104, United States", Florida
+26.15063372413793,-81.7842605862069,"Naples Harbor Yacht Club, North Road, Naples, Collier County, Florida, 34104, United States", Florida
+26.14685217241379,-81.7842605862069,"Naples Municipal Airport, North Rd, Naples, Collier County, Florida, 34104, United States", Florida
+26.14307062068965,-81.7842605862069,"Harbor Lane, Collier County, Florida, 34104, United States", Florida
+26.139289068965518,-81.7842605862069,"La Quinta Inn & Suites by Wyndham Naples Downtown, 5th Avenue South, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.13550751724138,-81.7842605862069,"1624, Pelican Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.7842605862069,"1555, Jewel Box Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.7842605862069,"1698, Bonita Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.7842605862069,"2083, Snook Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.7842605862069,"Sheepshead Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.7842605862069,"Star Point Lane, Naples, Collier County, Florida, 34112, United States", Florida
+26.11281820689655,-81.7842605862069,"Windstar on Naples Bay, Sheepshead Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.7842605862069,"Windstar on Naples Bay, Sheepshead Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.7842605862069,"1415, Gulfstar Drive South, Royal Harbor, Naples, Collier County, Florida, 34112, United States", Florida
+26.101473551724137,-81.7842605862069,"Bayview Park, Danford Street, Naples Bayview, Royal Harbor, Naples, Collier County, Florida, 34112, United States", Florida
+26.097692,-81.7842605862069,"Hamilton Ave, Collier County, Florida, 34112, United States", Florida
+26.207357,-81.78362179310345,"Forest Lakes Boulevard, Forest Lakes, Collier County, Florida, 35105, United States", Florida
+26.20357544827586,-81.78362179310345,"1486, Lyonia Lane, Forest Lakes, Collier County, Florida, 34105, United States", Florida
+26.19979389655172,-81.78362179310345,"Country Club of Naples, Cypress Point Drive, Country Club of Naples, Collier County, Florida, 34105, United States", Florida
+26.196012344827583,-81.78362179310345,"Royal Poinciana Drive, Naples, Collier County, Florida, 35105, United States", Florida
+26.192230793103448,-81.78362179310345,"Hole In the Wall Golf Club, Goodlette-Frank Road North, Naples, Collier County, Florida, 34102, United States", Florida
+26.18844924137931,-81.78362179310345,"Royal Poinciana Golf Club, Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.18466768965517,-81.78362179310345,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.180886137931036,-81.78362179310345,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.78362179310345,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17332303448276,-81.78362179310345,"Gordon River Greenway, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.78362179310345,"Gordon River Greenway, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.78362179310345,"Vinland Way, The Landings, Collier County, Florida, 34109:34112, United States", Florida
+26.161978379310344,-81.78362179310345,"Gordon River Greenway, Collier County, Florida, 34109:34112, United States", Florida
+26.15819682758621,-81.78362179310345,"Gordon River Greenway, Collier County, Florida, 34102, United States", Florida
+26.154415275862068,-81.78362179310345,"1563, Port Avenue, Avion Park, Naples, Collier County, Florida, 34104, United States", Florida
+26.15063372413793,-81.78362179310345,"Naples Harbor Yacht Club, North Road, Naples, Collier County, Florida, 34104, United States", Florida
+26.14685217241379,-81.78362179310345,"Naples Municipal Airport, North Rd, Naples, Collier County, Florida, 34104, United States", Florida
+26.14307062068965,-81.78362179310345,"Harbor Lane, Collier County, Florida, 34104, United States", Florida
+26.139289068965518,-81.78362179310345,"La Quinta Inn & Suites by Wyndham Naples Downtown, 5th Avenue South, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.13550751724138,-81.78362179310345,"Sandpiper Street, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.78362179310345,"1621, Jewel Box Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.78362179310345,"1699, Bonita Court, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.78362179310345,"2045, Snook Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.78362179310345,"Sheepshead Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.116599758620687,-81.78362179310345,"1699, Star Point Lane, Naples, Collier County, Florida, 34112, United States", Florida
+26.11281820689655,-81.78362179310345,"Windstar on Naples Bay, Sheepshead Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.78362179310345,"Windstar on Naples Bay, Sheepshead Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.78362179310345,"1420, Gulfstar Drive South, Royal Harbor, Naples, Collier County, Florida, 34112, United States", Florida
+26.101473551724137,-81.78362179310345,"Bayview Park, Danford Street, Naples Bayview, Royal Harbor, Naples, Collier County, Florida, 34112, United States", Florida
+26.097692,-81.78362179310345,"Hamilton Ave, Collier County, Florida, 34112, United States", Florida
+26.207357,-81.782983,"Quail Run Golf Club, Forest Lakes Boulevard, Collier County, Florida, 35105, United States", Florida
+26.20357544827586,-81.782983,"Forest Lakes Boulevard, Forest Lakes, Collier County, Florida, 35105, United States", Florida
+26.19979389655172,-81.782983,"Forest Lakes Boulevard, Forest Lakes, Collier County, Florida, 35105, United States", Florida
+26.196012344827583,-81.782983,"Royal Poinciana Drive, Naples, Collier County, Florida, 35105, United States", Florida
+26.192230793103448,-81.782983,"Royal Poinciana Golf Club, Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.18844924137931,-81.782983,"Royal Poinciana Golf Club, Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.18466768965517,-81.782983,"Royal Poinciana Golf Club, Royal Poinciana Drive, Naples, Collier County, Florida, 34103, United States", Florida
+26.180886137931036,-81.782983,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17710458620689,-81.782983,"Wilderness Country Club, Clubhouse Drive, Collier County, Florida, 34103-4408, United States", Florida
+26.17332303448276,-81.782983,"Golden Gate Parkway, Naples, Collier County, Florida, 34103-4408, United States", Florida
+26.169541482758618,-81.782983,"Bear's Paw Country Club, Vinland Drive, The Landings, Collier County, Florida, 34103-4408, United States", Florida
+26.165759931034483,-81.782983,"1618, Vinland Way, The Landings, Collier County, Florida, 34105, United States", Florida
+26.161978379310344,-81.782983,"Gordon River Greenway, Collier County, Florida, 34109:34112, United States", Florida
+26.15819682758621,-81.782983,"Gordon River Greenway, Collier County, Florida, 34109:34112, United States", Florida
+26.154415275862068,-81.782983,"431, North Road, Naples, Collier County, Florida, 34104, United States", Florida
+26.15063372413793,-81.782983,"Naples Harbor Yacht Club, North Road, Naples, Collier County, Florida, 34104, United States", Florida
+26.14685217241379,-81.782983,"Naples Municipal Airport, North Rd, Naples, Collier County, Florida, 34104, United States", Florida
+26.14307062068965,-81.782983,"Harbor Lane, Collier County, Florida, 34104, United States", Florida
+26.139289068965518,-81.782983,"Holiday Inn Express & Suites Naples Downtown - 5th Avenue, Davis Boulevard, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.13550751724138,-81.782983,"The Cottages, Curlew Avenue, Naples, Collier County, Florida, 34102, United States", Florida
+26.13172596551724,-81.782983,"1448, Sandpiper Street, Naples, Collier County, Florida, 34102, United States", Florida
+26.127944413793102,-81.782983,"1684, Sandpiper Street, Naples, Collier County, Florida, 34102, United States", Florida
+26.124162862068964,-81.782983,"2259, Sandpiper Street, Naples, Collier County, Florida, 34102, United States", Florida
+26.120381310344825,-81.782983,"Sandpiper Street, Naples, Collier County, Florida, 34102-6369, United States", Florida
+26.116599758620687,-81.782983,"1673, Star Point Lane, Naples, Collier County, Florida, 34112, United States", Florida
+26.11281820689655,-81.782983,"Windstar on Naples Bay, Sheepshead Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.10903665517241,-81.782983,"Windstar on Naples Bay, Sheepshead Drive, Naples, Collier County, Florida, 34102, United States", Florida
+26.105255103448275,-81.782983,"Royal Harbor, Naples, Collier County, Florida, United States", Collier County
+26.101473551724137,-81.782983,"Hamilton Harbot North Marina, Hamilton Ave, Collier County, Florida, 34112, United States", Florida
+26.097692,-81.782983,"Hamilton Ave, Collier County, Florida, 34112, United States", Florida
+26.725601,-82.063603,"Caloosa Parkway, Cape Coral, Lee County, Florida, United States", Lee County
+26.719543827586207,-82.063603,"Northwest 44th Avenue, Cape Coral, Lee County, Florida, United States", Lee County
+26.713486655172414,-82.063603,"4402, Northwest 32nd Terrace, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.70742948275862,-82.063603,"Northwest 45th Avenue, Cape Coral, Lee County, Florida, United States", Lee County
+26.70137231034483,-82.063603,"Northwest 27th Street, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.69531513793104,-82.063603,"Northwest 44th Place, Cape Coral, Lee County, Florida, United States", Lee County
+26.689257965517243,-82.063603,"Northwest 20th Street, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.68320079310345,-82.063603,"1616, Northwest 44th Avenue, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.67714362068965,-82.063603,"Northwest 43rd Avenue, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.67108644827586,-82.063603,"Northwest 43rd Avenue, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.665029275862068,-82.063603,"Tropicana Parkway West, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.65897210344828,-82.063603,"Cape Coral, Lee County, Florida, United States", Lee County
+26.652914931034484,-82.063603,"Cape Coral, Lee County, Florida, United States", Lee County
+26.64685775862069,-82.063603,"Cape Coral, Lee County, Florida, United States", Lee County
+26.640800586206897,-82.063603,"Shoreview Drive, Lee County, Florida, 33993, United States", Florida
+26.634743413793103,-82.063603,"Pine Island Road, Matlacha, Lee County, Florida, 33993, United States", Florida
+26.62868624137931,-82.063603,"Redfish Point Road, Matlacha, Lee County, Florida, 33993-9774, United States", Florida
+26.62262906896552,-82.063603,"Matlacha, Lee County, Florida, 33993-9774, United States", Florida
+26.61657189655172,-82.063603,"Matlacha, Lee County, Florida, 33993-9774, United States", Florida
+26.61051472413793,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.60445755172414,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.598400379310345,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.59234320689655,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.58628603448276,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.580228862068964,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.57417168965517,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.56811451724138,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.562057344827583,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.556000172413796,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.549943,-82.063603,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.725601,-82.05606103448275,"4283, Northwest 37th Street, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.719543827586207,-82.05606103448275,"Northwest 35th Lane, Cape Coral, Lee County, Florida, United States", Lee County
+26.713486655172414,-82.05606103448275,"3304, Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.70742948275862,-82.05606103448275,"2852, Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.70137231034483,-82.05606103448275,"2614, Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.69531513793104,-82.05606103448275,"4005, Northwest 22nd Terrace, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.689257965517243,-82.05606103448275,"Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.68320079310345,-82.05606103448275,"1868, Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.67714362068965,-82.05606103448275,"1341, Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.67108644827586,-82.05606103448275,"901, Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.665029275862068,-82.05606103448275,"518, Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.65897210344828,-82.05606103448275,"1, Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.652914931034484,-82.05606103448275,"392, Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.64685775862069,-82.05606103448275,"Old Burnt Store Road, Cape Coral, Lee County, Florida, 33993-9774, United States", Florida
+26.640800586206897,-82.05606103448275,"D&D Bait Boat Ramp, Southwest Pine Island Road, Lee County, Florida, 33993-9774, United States", Florida
+26.634743413793103,-82.05606103448275,"Southwest Pine Island Road, Lee County, Florida, 33993-9774, United States", Florida
+26.62868624137931,-82.05606103448275,"Matlacha, Lee County, Florida, 33993-9774, United States", Florida
+26.62262906896552,-82.05606103448275,"Matlacha, Lee County, Florida, 33993-9774, United States", Florida
+26.61657189655172,-82.05606103448275,"Matlacha, Lee County, Florida, 33993-9774, United States", Florida
+26.61051472413793,-82.05606103448275,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.60445755172414,-82.05606103448275,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.598400379310345,-82.05606103448275,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.59234320689655,-82.05606103448275,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.58628603448276,-82.05606103448275,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.580228862068964,-82.05606103448275,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.57417168965517,-82.05606103448275,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.56811451724138,-82.05606103448275,"Cape Coral, Lee County, Florida, United States", Lee County
+26.562057344827583,-82.05606103448275,"Cape Coral, Lee County, Florida, United States", Lee County
+26.556000172413796,-82.05606103448275,"Cape Coral, Lee County, Florida, United States", Lee County
+26.549943,-82.05606103448275,"Cape Coral, Lee County, Florida, United States", Lee County
+26.725601,-82.04851906896552,"3645, Caloosa Parkway, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.719543827586207,-82.04851906896552,"Sand Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.713486655172414,-82.04851906896552,"3446, Janis Road, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.70742948275862,-82.04851906896552,"Lavida Way, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.70137231034483,-82.04851906896552,"Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.69531513793104,-82.04851906896552,"2309, Northwest 36th Place, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.689257965517243,-82.04851906896552,"1963, Northwest 36th Place, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.68320079310345,-82.04851906896552,"1635, Northwest 36th Place, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.67714362068965,-82.04851906896552,"1289, Northwest 36th Place, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.67108644827586,-82.04851906896552,"1003, Northwest 36th Place, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.665029275862068,-82.04851906896552,"685, Northwest 36th Place, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.65897210344828,-82.04851906896552,"3773, Northwest 3rd Terrace, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.652914931034484,-82.04851906896552,"3878, Embers Parkway, Cape Coral, Lee County, Florida, 33993, United States", Florida
+26.64685775862069,-82.04851906896552,"3613, Southwest 3rd Street, Cape Coral, Lee County, Florida, 33991, United States", Florida
+26.640800586206897,-82.04851906896552,"12376, Matlacha Boulevard, Lee County, Florida, 33991, United States", Florida
+26.634743413793103,-82.04851906896552,"Scallop Drive, Lee County, Florida, 33991, United States", Florida
+26.62868624137931,-82.04851906896552,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.62262906896552,-82.04851906896552,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.61657189655172,-82.04851906896552,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.61051472413793,-82.04851906896552,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.60445755172414,-82.04851906896552,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.598400379310345,-82.04851906896552,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.59234320689655,-82.04851906896552,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.58628603448276,-82.04851906896552,"Cape Coral, Lee County, Florida, 33914-4648, United States", Florida
+26.580228862068964,-82.04851906896552,"Cape Coral, Lee County, Florida, United States", Lee County
+26.57417168965517,-82.04851906896552,"Cape Coral, Lee County, Florida, United States", Lee County
+26.56811451724138,-82.04851906896552,"Cape Coral, Lee County, Florida, United States", Lee County
+26.562057344827583,-82.04851906896552,"Cape Coral, Lee County, Florida, United States", Lee County
+26.556000172413796,-82.04851906896552,"Cape Coral, Lee County, Florida, United States", Lee County
+26.549943,-82.04851906896552,"Cape Coral, Lee County, Florida, United States", Lee County
