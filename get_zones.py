@@ -40,10 +40,10 @@ def save_image(response):
 
 def get_bbox(address):
     """
-    Function to return address co-ordinates. 
-    There are multiple candidates or multiple possible address matching the address 
-    provided to the function. They are ranked according to the score. 
-    Higher score means more confidence. 
+    Function to return address co-ordinates.
+    There are multiple candidates or multiple possible address matching the address
+    provided to the function. They are ranked according to the score.
+    Higher score means more confidence.
     """
 
     params = (
@@ -129,7 +129,6 @@ df['Region'] = df['address'].apply(lambda x: x.split(",")[-3])
 
 result = []
 
-
 data = df[:100].values.tolist()
 
 start_time = time.time()
@@ -142,18 +141,18 @@ for index, row in enumerate(data):
     print(address)
     t1 = time.time()
     response = requests.get('https://hazards.fema.gov/gis/nfhl/rest/services/FIRMette/NFHLREST_FIRMette/MapServer/export',
-                            headers=get_headers(), params=get_params(row['address']))
-    image = save_image(response)
-    zone = extract_zone(image)
+                            headers=get_headers(), params=get_params(address)))
+    image=save_image(response)
+    zone=extract_zone(image)
     total += (time.time() - t1)
     print("Zone is: ", zone)
     result.append(zone)
 
-end_time = time.time()
+end_time=time.time()
 print("Total time taken: ", end_time - start_time)
 print("Average time taken: ", (end_time - start_time) / len(df))
 
-df['Zone'] = zone
+df['Zone']=zone
 
 df.to_csv(f"{file_name}.csv")
 with open(f'{file_name}.txt', 'w') as f:
