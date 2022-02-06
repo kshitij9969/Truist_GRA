@@ -141,18 +141,18 @@ for index, row in enumerate(data):
     print(address)
     t1 = time.time()
     response = requests.get('https://hazards.fema.gov/gis/nfhl/rest/services/FIRMette/NFHLREST_FIRMette/MapServer/export',
-                            headers=get_headers(), params=get_params(address)))
-    image=save_image(response)
-    zone=extract_zone(image)
+                            headers=get_headers(), params=get_params(address))
+    image = save_image(response)
+    zone = extract_zone(image)
     total += (time.time() - t1)
     print("Zone is: ", zone)
     result.append(zone)
 
-end_time=time.time()
+end_time = time.time()
 print("Total time taken: ", end_time - start_time)
 print("Average time taken: ", (end_time - start_time) / len(df))
 
-df['Zone']=zone
+df['Zone'] = zone
 
 df.to_csv(f"{file_name}.csv")
 with open(f'{file_name}.txt', 'w') as f:
