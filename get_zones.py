@@ -71,6 +71,7 @@ def extract_zone(image):
         zone = re.findall(r'.*Zone.*\n', text)[0]
         zone = zone.lstrip("Zone")
     except Exception as e:
+        print("Following execption while extracting zone: ", e)
         return "Zone not found in image"
     return zone
 
