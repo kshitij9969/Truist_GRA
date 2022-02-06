@@ -123,6 +123,7 @@ def get_params(address):
 # address = get_address(extract_text(filename))
 
 file_name = f"{sys.argv[1]}"
+file_name = str(file_name)
 
 # df = pd.DataFrame(COORDINATES, columns=['lat', 'long', 'address'])
 df = pd.read_csv(file_name)
@@ -155,6 +156,6 @@ print("Average time taken: ", (end_time - start_time) / len(df))
 
 df['Zone'] = zone
 
-df.to_csv(f"{file_name.split(".")[0]}_zones.csv")
+df.to_csv(f"zone_{file_name}")
 with open(f'{file_name}.txt', 'w') as f:
     f.write(f"total time {total}")
