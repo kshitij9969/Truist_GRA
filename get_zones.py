@@ -55,11 +55,14 @@ def get_bbox(address):
     response = requests.get(
         'https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates', params=params)
     data = response.json()
-    extent = data['candidates'][0]['extent']
-    location = data['candidates'][0]['location']
-    x_min, x_max = location['x'] - X_FRAME_RANGE, location['x'] + X_FRAME_RANGE
-    y_min, y_max = location['y'] - Y_FRAME_RANGE, location['y'] + Y_FRAME_RANGE
-    return f'{x_min},{y_min},{x_max},{y_max}'
+    if response.status_code == 200:
+        extent = data['candidates'][0]['extent']
+        location = data['candidates'][0]['location']
+        x_min, x_max = location['x'] - \
+            X_FRAME_RANGE, location['x'] + X_FRAME_RANGE
+        y_min, y_max = location['y'] - \
+            Y_FRAME_RANGE, location['y'] + Y_FRAME_RANGE
+        return f'{x_min},{y_min},{x_max},{y_max}'
 
 
 def extract_zone(image):
@@ -142,13 +145,16 @@ for index, row in enumerate(data):
     address = row[2]
     print(address)
     t1 = time.time()
-    response = requests.get('https://hazards.fema.gov/gis/nfhl/rest/services/FIRMette/NFHLREST_FIRMette/MapServer/export',
-                            headers=get_headers(), params=get_params(address))
-    image = save_image(response)
-    zone = extract_zone(image)
-    total += (time.time() - t1)
-    print("Zone is: ", zone)
-    result.append(zone)
+    try:
+        response = requests.get('https://hazards.fema.gov/gis/nfhl/rest/services/FIRMette/NFHLREST_FIRMette/MapServer/export',
+                                headers=get_headers(), params=get_params(address))
+        image = save_image(response)
+        zone = extract_zone(image)
+        total += (time.time() - t1)
+        print("Zone is: ", zone)
+        result.append(zone)
+    except Exception as e:
+        result.append(e)
 
 end_time = time.time()
 print("Total time taken: ", end_time - start_time)
